@@ -5,6 +5,7 @@ public/
 dist/
 .cache/
 build/
+.vscode/
 
 # Files
 npm-debug.log
