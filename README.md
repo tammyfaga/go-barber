@@ -10,6 +10,7 @@ Creating a App based on the Rocketseat 'Bootcamp' course.
 - :heavy_check_mark: MVC
 - :heavy_check_mark: ORM Sequelize
 - :heavy_check_mark: Migrations
+- :heavy_check_mark: Multer
 - :heavy_check_mark: ReactJs
 - :heavy_check_mark: React Native
 - :heavy_check_mark: React Hooks
