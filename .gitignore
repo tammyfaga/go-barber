@@ -10,5 +10,5 @@ tmp/
 
 # Files
 npm-debug.log
-
+.env
 *.swp
