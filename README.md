@@ -18,3 +18,6 @@ Creating a App based on the Rocketseat 'Bootcamp' course.
 - :heavy_check_mark: Flux
 - :heavy_check_mark: Eslint
 - :heavy_check_mark: Prettier
+- :heavy_check_mark: Nodemailer
+- :heavy_check_mark: Redis
+- :heavy_check_mark: Sentry
